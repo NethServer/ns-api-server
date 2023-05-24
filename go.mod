@@ -1,4 +1,4 @@
-module github.com/nethserver/ns-api-server
+module github.com/NethServer/ns-api-server
 
 go 1.19
 
